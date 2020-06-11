@@ -1,0 +1,21 @@
+4%2F0gHTjeNuTWyxcJWtN99pTClmWpWaSS4aeU3fR1E1rox0C5PFSpQvE2EW9lZairc8rpJsWZICvTY7SrklT647bjI
+Request method:	POST
+Request URI:	https://www.googleapis.com/oauth2/v4/token?code=4%2F0gHTjeNuTWyxcJWtN99pTClmWpWaSS4aeU3fR1E1rox0C5PFSpQvE2EW9lZairc8rpJsWZICvTY7SrklT647bjI&client_id=692183103107-p0m7ent2hk7suguv4vq22hjcfhcr43pj.apps.googleusercontent.com&client_secret=erZOWM9g3UtwNRj340YYaK_W&redirect_uri=https://rahulshettyacademy.com/getCourse.php&grant_type=authorization_code
+Proxy:			<none>
+Request params:	<none>
+Query params:	code=4%2F0gHTjeNuTWyxcJWtN99pTClmWpWaSS4aeU3fR1E1rox0C5PFSpQvE2EW9lZairc8rpJsWZICvTY7SrklT647bjI
+				client_id=692183103107-p0m7ent2hk7suguv4vq22hjcfhcr43pj.apps.googleusercontent.com
+				client_secret=erZOWM9g3UtwNRj340YYaK_W
+				redirect_uri=https://rahulshettyacademy.com/getCourse.php
+				grant_type=authorization_code
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+https://www.linkedin.com/in/rahul-shetty-trainer/
+RahulShetty
+SoapUI Webservices testing
+40
